@@ -28,7 +28,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/4965007.jpg');
+    background-image: url('https://rollingstone.com.br/media/uploads/my-chemical-romance-the-black-parade-uniforme-foto-divulgacao.jpg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -58,7 +58,7 @@ section {
 
 
 .botao-inicio {
-    background-color: var(--laranja-claro);
+    background-color: var(--vermelho-);
     border-radius: 30px;
     border: none;
     width: 14em;
@@ -68,22 +68,22 @@ section {
 }
 
 .display-4 {
-    text-shadow: -5px 5px var(--laranja-claro);
+    text-shadow: -5px 5px var(--preto-);
 }
 
 
-#tropicalia {
+#Mcr {
     position: relative;
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
+    background: url('https://todateen.com.br/wp-content/uploads/2009/06/my.jpg') top right no-repeat,
+        url('https://www.tenhomaisdiscosqueamigos.com/wp-content/uploads/2014/01/My-Chemical-Romance-Three-Cheers-of-Sweet-Revange-1024x1024.jpg') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
 
-#tropicalia .container {
+#Mcr .container {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -94,10 +94,10 @@ section {
 
 
 h2 {
-    font-family: 'Lemon', serif;
+    font-family: 'red', serif;
     font-size: 2.5em;
     font-style: normal;
-    color: var(--laranja-claro);
+    color: var(--vermelho-escuro);
 }
 
 #galeria {
