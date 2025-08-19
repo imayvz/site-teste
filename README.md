@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #FF862A;
+    --roxo-claro: #FF862A;
  }
 
 body {
@@ -58,7 +58,7 @@ section {
 
 
 .botao-inicio {
-    background-color: var(--laranja-claro);
+    background-color: var(--roxo-claro);
     border-radius: 30px;
     border: none;
     width: 14em;
@@ -68,7 +68,7 @@ section {
 }
 
 .display-4 {
-    text-shadow: -5px 5px var(--laranja-claro);
+    text-shadow: -5px 5px var(--vermelho-claro);
 }
 
 
@@ -94,10 +94,10 @@ section {
 
 
 h2 {
-    font-family: 'Lemon', serif;
+    font-family: 'orange', serif;
     font-size: 2.5em;
     font-style: normal;
-    color: var(--laranja-claro);
+    color: var(--azul-claro);
 }
 
 #galeria {
